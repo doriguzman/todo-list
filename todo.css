@@ -1,0 +1,10 @@
+body{
+    font-family: 'Pangolin', cursive;
+    background-color: darkblue;
+    color:white;
+}
+
+li:hover{
+    background-color: white;
+    color:darkblue;
+}
